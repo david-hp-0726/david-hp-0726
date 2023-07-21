@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Swift, Linux**
 
-- 👨‍💻 My portfolio website **[Link](https://david-chen.netlify.app)**
+- 👨‍💻 Check out my **[portfolio website](https://david-chen.netlify.app)**
 
-- 📫 Reach me on LinkedIn **[Link](https://www.linkedin.com/in/david-chen-69a226284)**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/david-chen-69a226284)**
 
 - 📫 Reach me via email **xche653@emory.edu**
 
