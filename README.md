@@ -11,7 +11,7 @@
 
 - 📫 Reach me via email **xche653@emory.edu**
 
-- ⚡ My favorite video games are **Clash Royale, League of Legend**
+- ⚡ My favorite video games are **Clash Royale, League of Legends**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
