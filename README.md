@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Swift, C++, Linux**
 
-- 👨‍💻 My portfolio website **[https://david-chen.netlify.app](https://david-chen.netlify.app)**
+- 👨‍💻 My portfolio website **[Link](https://david-chen.netlify.app)**
 
-- 📫 How to reach me **xche653@emory.edu**
+- 📫 Reach me on LinkedIn **[Link](www.linkedin.com/in/david-chen-69a226284)**
+
+- 📫 Reach me via email **xche653@emory.edu**
 
 - ⚡ My favorite video games are **Clash Royale, League of Legend**
 
