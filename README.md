@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[Ecommerce Website](https://github.com/david-hp-0726/Ecommerce_App)**
 
-- 🌱 I’m currently learning **Swift, C++, Linux**
+- 🌱 I’m currently learning **Swift, Linux**
 
 - 👨‍💻 My portfolio website **[Link](https://david-chen.netlify.app)**
 
