@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio website **[Link](https://david-chen.netlify.app)**
 
-- 📫 Reach me on LinkedIn **[Link](www.linkedin.com/in/david-chen-69a226284)**
+- 📫 Reach me on LinkedIn **[Link](https://www.linkedin.com/in/david-chen-69a226284)**
 
 - 📫 Reach me via email **xche653@emory.edu**
 
