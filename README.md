@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Chen</h1>
 <h3 align="center">A CS student looking for an internship</h3>
 
-- 🔭 I’m currently working on **[Ecommerce Website](https://github.com/david-hp-0726/Ecommerce_App)**
+- 🔭 I’m currently working on **[Ecommerce Website](https://github.com/david-hp-0726/Ecommerce_App)**, **[Wordle Clone](https://github.com/david-hp-0726/Wordle_Clone)**
 
 - 🌱 I’m currently learning **Swift, Linux**
 
