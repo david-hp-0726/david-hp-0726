@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Chen</h1>
 <h3 align="center">A CS student looking for an internship</h3>
 
-- 🔭 I’m currently working on **[Ecommerce Website](https://github.com/david-hp-0726/Ecommerce_App)**, **[Wordle Clone](https://github.com/david-hp-0726/Wordle_Clone)**
+- 🔭 I’m currently working on **[Frontend Expert](https://www.algoexpert.io/frontend/product?r=ads&gad=1&gclid=CjwKCAjwrranBhAEEiwAzbhNtZQAM0ftf57cXvxPbJswaoxxnnW2A6dSjLSQkYAAkwKJFfjHRnfnNRoC6MIQAvD_BwE)**, **[Algo Expert](https://www.algoexpert.io/product)**
 
 - 🌱 I’m currently learning **Swift, Linux**
 
@@ -12,6 +12,10 @@
 - 📫 Reach me via email **xche653@emory.edu**
 
 - ⚡ My favorite video games are **Clash Royale, League of Legends**
+
+- ⚡ My leetcode stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/xuanyou_hp)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
