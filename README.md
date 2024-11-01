@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm David Chen</h1>
-<h3 align="center">A CS student looking for an internship</h3>
 
 - 🔭 I’m currently working on **[Frontend Expert](https://www.algoexpert.io/frontend/product?r=ads&gad=1&gclid=CjwKCAjwrranBhAEEiwAzbhNtZQAM0ftf57cXvxPbJswaoxxnnW2A6dSjLSQkYAAkwKJFfjHRnfnNRoC6MIQAvD_BwE)**, **[Algo Expert](https://www.algoexpert.io/product)**
 
