@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm David Chen</h1>
 
-- 🔭 I’m currently working on **[Frontend Expert](https://www.algoexpert.io/frontend/product?r=ads&gad=1&gclid=CjwKCAjwrranBhAEEiwAzbhNtZQAM0ftf57cXvxPbJswaoxxnnW2A6dSjLSQkYAAkwKJFfjHRnfnNRoC6MIQAvD_BwE)**, **[Algo Expert](https://www.algoexpert.io/product)**
+- 🔭 I’m currently learning **PyTorch**, **MuJoCo**, **ROS**, **Gazebo**
 
 - 👨‍💻 Check out my **[portfolio website](https://david-chen.netlify.app)**
 
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/david-chen-69a226284)**
 
-- 📫 Reach me via email **xche653@emory.edu**
+- 📫 Reach me via email **xchen3019@gatech.edu**
 
 - ⚡ My leetcode stats
 
